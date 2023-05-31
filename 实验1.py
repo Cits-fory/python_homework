@@ -1,5 +1,5 @@
 '''
-Cits-fory1
+Cits-fory
 '''
 # # 1、编写一个猜年龄的小游戏；
 # import random
